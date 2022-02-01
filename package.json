@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "mongoose-slug-plugin": "^2.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "express-eventplanner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAlkandari/Express-EventPlanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAlkandari/Express-EventPlanner/issues"
+  },
+  "homepage": "https://github.com/AAlkandari/Express-EventPlanner#readme",
+  "description": ""
+}
